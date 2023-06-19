@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Teo Samaržija, known on some social networks as @FlatAssembler.
-- 👀 I’m interested primarily in front-end development, low-level development and historical linguistics.
+- 👀 I’m interested primarily in front-end development, low-level development and historical linguistics (particularly the names of places in Croatia, you can read [my paper about applying information theory to the Croatian river names](https://flatassembler.github.io/Karasica.doc) which I published in two journals).
 - 🌱 I’m currently learning a lot of difficult and mostly useless things, at the university.
 For a piece of paper called diploma, which is supposed to help me get hired, even if I do not know whether it actually does that. I am often feeling stupid because of that.
 - 💞️ I’m looking to collaborate on ... Well, I haven't yet decided. I am also currently struggling with a mental illness (a psychotic disorder), so I cannot collaborate on anything right now.
