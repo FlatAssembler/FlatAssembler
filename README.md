@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Teo Samaržija, known on some social networks as @FlatAssembler.
 - 👀 My interests are:
-  - Professional interests: front-end development, low-level development, and compiler development.
+  - Professional interests: front-end development, low-level development, and compiler development (see the pinned repositories for examples of those).
   - Hobby interests: historical linguistics (particularly the names of places in Croatia, you can read [my paper about applying information theory to the Croatian river names](https://flatassembler.github.io/Karasica.doc) which I published in two journals or [its English-language summary on my blog](https://flatassembler.github.io/toponyms.html#english_summary)).
 - 🌱 <del>I’m currently learning a lot of difficult and mostly useless things, at the university.
 For a piece of paper called diploma, which is supposed to help me get hired, even if I do not know whether it actually does that. I am often feeling stupid because of that.</del> (UPDATE: Now I have graduated with a Bachelor degree in computer engineering and I am unemployed.)
