@@ -7,7 +7,7 @@ For a piece of paper called diploma, which is supposed to help me get hired, eve
 - 💞️ I’m looking to collaborate on ... Well, I haven't yet decided. <del>I am also currently struggling with a mental illness (a psychotic disorder, Risperidone appears to help), so I cannot collaborate on anything right now.</del> (UPDATE: Well, I am collaborating rather successfully right now with [@agustiza](https://github.com/agustiza) and [@abdrd](https://github.com/abdrd) on [my PicoBlaze assembler and emulator](https://github.com/FlatAssembler/PicoBlaze_Simulator_in_JS.git). I am still taking Risperidone, and probably will for the rest of my life.)
 - 📫 You can get to my e-mail address by solving the spambot-protection problem on [my Error 404 page](https://flatassembler.github.io/does_not_exist.html), or on the menu that is opened by clicking the top-left icon (![The top-left icon](https://www.theflatearthsociety.org/forum/avr/avatar_1461509_1483220545.png)) on my [web-app that converts arithmetic expressions to x86 assembly](https://flatassembler.github.io/compiler.html), or the link on the bottom of my [PicoBlaze assembler and emulator](https://flatassembler.github.io/PicoBlaze/PicoBlaze), or by clicking *contact me* at the very bottom of [my homepage](https://flatassembler.github.io/).
 
-I've written a humorous poem about the situation I am in now, together with plenty of others recently-graduated engineers:
+I've written a humorous poem about the situation I am in now, together with plenty of other recently-graduated engineers:
 
 >What about all of those who did what they were told?\
 >When will you admit those are lies that you sold?
