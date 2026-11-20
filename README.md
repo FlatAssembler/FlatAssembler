@@ -47,6 +47,8 @@ I've written a humorous poem about the situation I am in now, together with plen
 >Now I am taking psychiatric medication,\
 >and alcohol and drugs would only give me bad sensation. 
 
+I hope you find it funny. In case it's not obvious, it's referring to the fact that Boomers in general seem to encourage almost every single kid to go study engineering, and they take absolutely no responsibility when young people end up in psychiatric ward because of stress before they even graduate. They also tell kids to study as much as they can and that they will have fun later in life, and they take no responsibility when you cannot have fun later in life because alcohol and drugs would badly interact with your psychiatric medication. Boomers also encourage us to learn difficult skills such as driving or coding telling us those skills are essential for modern life, and they take zero responsibility when AI turns out to be making those skills largely obsolete.
+
 <!---
 FlatAssembler/FlatAssembler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
